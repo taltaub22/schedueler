@@ -1,0 +1,11 @@
+{
+  "name": "schedueler",
+  "version": "1.0.0",
+  "description": "FLL Tournament scheduele creator",
+  "main": "index.js",
+  "author": "Idan Stark <idanstark42@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.3"
+  }
+}
